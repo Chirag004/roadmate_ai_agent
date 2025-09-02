@@ -1,0 +1,7 @@
+#requiremnts/dependences for this project
+
+langchain
+langchain-ollama
+langchain-chroma
+groq
+pandas
